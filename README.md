@@ -10,11 +10,11 @@ CoTracker is an iOS application that allows user to track daily COVID-19 statisc
 
 ## Preview of Contents
 
-![](https://imgur.com/0kz2fPy)
-![](https://imgur.com/gChzZ5w)
-![](https://imgur.com/VGociE1)
-![](https://imgur.com/y8sIFbR)
-![](https://imgur.com/WHL4O4R)
+![ ](https://imgur.com/0kz2fPy)
+![ ](https://imgur.com/gChzZ5w)
+![ ](https://imgur.com/VGociE1)
+![ ](https://imgur.com/y8sIFbR)
+![ ](https://imgur.com/WHL4O4R)
 
 ## Used libraries
 
