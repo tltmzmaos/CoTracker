@@ -28,13 +28,4 @@ CoTracker is an iOS application that allows user to track daily COVID-19 statisc
 * [MessageKit](https://cocoapods.org/pods/MessageKit)
 
 
-- [x] Firebase Auth : login/logout (AppDelegate, LoginViewController, ForthViewController)
-- [x] Firebase Storage : profile picture (StorageManager, AccountInforViewController)
-- [x] Firebase realtime database : message data, user data (MessageDataModel, DatabaseManager, ChatViewController)
-- [x] Open REST API : COVID-19 data (CVClient, ANClient, FirstViewController, SecondViewController, SearchResultViewController)
-- [x] Persistent Data : UserDefaults 
-- [x] MessageKit : MessageUI (ChatViewController)
-    - [x] message function (MessageDataModel, DatabaseManager)
-    - [ ] photo message
-
 
